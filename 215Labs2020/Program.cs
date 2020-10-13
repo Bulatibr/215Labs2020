@@ -2,11 +2,11 @@
 
 namespace _215Labs2020
 {
-    class Program
+    class Proverka
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("Проверка");
         }
     }
 }
